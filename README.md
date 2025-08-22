@@ -18,6 +18,6 @@ This project features a sleek UI, precise hundredths-of-a-second timing, intuiti
 
 🌐 **[Live Demo Here](https://stopwatch-ourdeepak.netlify.app/)**  
 
-## ❇️ Screenshot
-[(/preview.png)]
+## 📸 Preview
+![Stopwatch Preview](preview.png)  
 
